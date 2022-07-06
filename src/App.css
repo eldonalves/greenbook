@@ -1,0 +1,16 @@
+a{
+  margin-right: 1%;
+}
+
+nav{
+  text-align: center;
+}
+
+input{
+  display: flex;
+  align-self: center
+}
+
+form {
+  border: 3px solid #f1f1f1;
+}
